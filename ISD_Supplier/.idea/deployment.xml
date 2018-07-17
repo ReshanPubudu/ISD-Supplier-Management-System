@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Apache" deleteMissingItems="true" filePermissions="420" folderPermissions="493">
+    <serverData>
+      <paths name="Apache">
+        <serverdata>
+          <mappings>
+            <mapping deploy="ISD_Supplier-1" local="$PROJECT_DIR$" web="/ISD_Supplier-1" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
